@@ -1,0 +1,25 @@
+{
+  "name": "api_load_tester",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://github.com/psiyavush/API-LOAD-TESTER",
+  "bugs": {
+    "url": "https://github.com/psiyavush/API-LOAD-TESTER/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psiyavush/API-LOAD-TESTER.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pak Sievush",
+  "license": "ISC",
+  "description": "Инструмент для тестирования нагрузки HTTP-запросов (GET и POST) к заданному API",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7"
+  }
+}
+ 
